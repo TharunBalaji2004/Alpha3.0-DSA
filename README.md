@@ -10,5 +10,5 @@ Course Link: https://www.apnacollege.in/course/alpha-batch-3
 #Alpha3.0 #DSA
 <br>
 <br>
-Star this repo as ⭐ for reference
+**Star this repo as ⭐ for reference**
 </p>
