@@ -25,6 +25,8 @@ public class pq1_Naive {
 }
 
 /*
+Time Complexity: O(N^2)
+
 OUTPUT:
 Enter size of array: 5
 1
