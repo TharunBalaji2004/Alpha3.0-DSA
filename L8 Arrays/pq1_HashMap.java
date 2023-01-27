@@ -38,6 +38,8 @@ public class pq1_HashMap {
 }
 
 /*
+Time Complexity: O(N)
+
 OUTPUT:
 Enter size of array: 5
 1
@@ -54,5 +56,4 @@ Enter size of array: 5
 4
 5
 false
-
 */
