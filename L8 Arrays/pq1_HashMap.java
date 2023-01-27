@@ -36,3 +36,22 @@ public class pq1_HashMap {
         System.out.println(valueTwice(arr));
     }
 }
+
+/*
+OUTPUT:
+Enter size of array: 5
+1
+2
+3
+4
+1
+true
+
+Enter size of array: 5
+1
+2
+3
+4
+5
+false
+*/
