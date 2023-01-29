@@ -48,3 +48,21 @@ public class pq3 {
     }
 }
 
+/*
+OUTPUT:
+Enter rows of a matrix: 2
+Enter columns of a matrix: 3
+Enter 00 element: 1
+Enter 01 element: 2
+Enter 02 element: 3
+Enter 10 element: 4
+Enter 11 element: 5
+Enter 12 element: 6
+Original Matrix
+1 2 3 
+4 5 6 
+Transpose of marix
+1 4 
+2 5 
+3 6
+*/
